@@ -5,14 +5,12 @@
 package com.ifntil3jee.jee.repository;
 
 import com.ifntil3jee.jee.entety.User;
-import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
  * @author dimitri
  */
-public interface PersonneRepository extends JpaRepository<User, Long> {
-    User save(User user);
-    Optional<User> findById(long id);
+public interface UserRepository extends JpaRepository<User, Long> {
+    
 }

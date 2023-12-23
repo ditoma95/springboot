@@ -149,8 +149,16 @@
   },
   "active": "ebbc3c81f564444b",
   "lastOpenFiles": [
-    "src/main/java/com/ifntil3jee/jee/repository/PersonneRepository.java",
+    "target/classes/com/ifntil3jee/jee/controller/HomeController.class",
+    "target/classes/com/ifntil3jee/jee/ServletInitializer.class",
+    "target/classes/com/ifntil3jee/jee/AppApplication.class",
+    "target/classes/com/ifntil3jee/jee/entety/Role.class",
+    "target/classes/com/ifntil3jee/jee/entety/User.class",
+    "target/classes/com/ifntil3jee/jee/repository/UserRepository.class",
+    "target/classes/com/ifntil3jee/jee/entety/UserController.class",
+    "target/classes/com/ifntil3jee/jee/repository",
     "src/main/java/com/ifntil3jee/jee/repository/UserRepository.java",
-    "src/main/java/com/ifntil3jee/jee/repository"
+    "src/main/java/com/ifntil3jee/jee/repository/u1.java",
+    "src/main/java/com/ifntil3jee/jee/entety/UserController.java"
   ]
 }
